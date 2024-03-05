@@ -11,6 +11,7 @@ from io import StringIO
 import warnings
 import pandas as pd
 from tqdm import tqdm
+from time import sleep
 
 
 # loop through the selected data range and download the historic hourly weather data for the selected city
@@ -23,8 +24,8 @@ def historic_weather_scrape(city, year_start, month_start, year_end, month_end):
         "YMM": "49490",
     }
 
-    for year in range(year_start, year_end+1):
-        for month in range(month_start, month_end+1):
+    for year in tqdm(range(year_start, year_end+1)):
+        for month in tqdm(range(month_start, month_end+1), leave=False):
 
             # generate the url for the requested csv
             csv_url = (f"https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID="
@@ -135,13 +136,19 @@ def add_province_via_google_maps(df, api_key):
 
 
 if __name__ == '__main__':
+    '''
     # Ignore FutureWarning
     warnings.filterwarnings("ignore", category=FutureWarning)
     step = 500
-    for i in range(6001, 100_001, step):
+    for i in range(22001, 100_001, step):
         print(f"\nGrabbing Stations {i} to {i+step-1}.")
         wsdf = id_weather_stations(list(range(i, i+step)))
         wsdf.to_csv(rf'WeatherStationsListing\{wsdf["Station Id"].iloc[-1]}.csv')
+        sleep(2)
+    '''
 
-    # historic_weather_scrape('YYC', 2000, 0, 2023, 12)
+    # historic_weather_scrape("YYC", 2000, 0, 2023, 12)
+    historic_weather_scrape("YEG", 2000, 0, 2023, 12)
+    historic_weather_scrape("YMM", 2000, 0, 2023, 12)
+
     print("Done")

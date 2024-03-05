@@ -1,0 +1,52 @@
+﻿"Gross domestic product (GDP) at basic prices, by industry, provinces and territories (x 1,000,000) c 1 2 3 4 5 6 7"
+"Frequency: Annual"
+"Table: 36-10-0402-01 (formerly CANSIM 379-0030)"
+"Release date: 2023-11-08"
+"Geography: Province or territory"
+""
+""
+
+"Value","Current dollars",,,,,,,,,,,,,,,,,,,,,,
+"North American Industry Classification System (NAICS) 7 8 9","Industrial production  [T010] 10",,,,,,,,,,,,,,,,,,,,,,
+"Geography","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022"
+,"Dollars",,,,,,,,,,,,,,,,,,,,,,
+"Newfoundland and Labrador","3,474.3","3,297.3","5,024.5","6,118.8","6,931.9","9,052.5","10,839.5","14,529.3","16,265.8","8,751.9","11,638.6","14,680.6","11,542.6","12,617.8","11,255.1","7,302.9","7,208.1","9,223.6","10,632.1","11,709.3","9,218.6","..",".."
+"Prince Edward Island","425.6","451.6","414.0","439.8","472.8","465.0","487.0","483.1","488.4","508.8","503.6","474.9","477.3","520.7","564.7","660.7","748.1","802.4","840.3","883.0","989.5","..",".."
+"Nova Scotia","4,258.0","4,446.2","4,395.5","5,044.9","5,157.6","5,471.6","4,800.1","4,877.6","5,232.5","4,074.0","4,359.5","4,158.1","3,850.6","3,746.0","4,072.4","3,897.0","3,894.1","4,013.9","4,235.4","4,539.3","4,418.3","..",".."
+"New Brunswick","3,938.0","3,983.7","3,652.9","3,935.3","4,290.4","4,265.6","4,454.4","4,808.1","4,395.2","3,845.7","4,311.4","4,688.6","4,627.8","4,348.0","4,252.8","4,694.9","4,439.7","4,491.6","4,842.5","4,949.1","4,877.7","..",".."
+"Quebec","56,840.7","57,081.9","57,158.2","56,491.2","58,700.3","59,686.6","60,598.8","63,783.6","63,118.5","57,941.0","61,361.0","63,971.5","62,936.4","63,411.8","65,350.1","68,308.6","69,409.4","73,250.5","77,790.2","79,811.8","77,320.6","..",".."
+"Ontario","110,205.2","107,252.3","114,258.5","114,427.6","114,469.4","114,073.0","111,960.6","110,406.5","101,320.7","89,014.7","95,516.3","100,420.8","103,084.2","101,930.1","106,374.9","112,452.5","116,099.1","116,227.2","123,135.7","123,166.4","115,850.0","..",".."
+"Manitoba","6,557.7","6,247.4","6,354.9","6,247.3","7,192.6","7,864.9","8,861.2","9,497.1","9,349.7","8,218.2","8,880.8","10,039.1","10,614.9","10,652.9","10,709.1","9,681.0","9,762.7","10,499.1","11,149.7","11,348.7","10,673.3","..",".."
+"Saskatchewan","9,340.5","8,025.3","8,737.7","9,923.4","11,940.8","14,354.2","14,546.8","16,541.5","24,382.2","17,854.2","20,205.2","25,796.7","25,575.5","25,796.9","26,244.1","20,386.7","16,579.6","19,505.7","22,374.8","22,158.8","16,109.5","..",".."
+"Alberta","54,543.8","55,362.2","47,327.6","60,617.1","72,244.0","91,170.1","94,771.3","93,718.7","115,212.3","72,708.5","87,839.1","101,911.5","97,982.8","109,945.6","129,542.5","78,719.2","67,303.0","88,080.1","99,086.5","101,821.1","65,262.8","..",".."
+"British Columbia","24,402.8","22,424.0","20,905.4","22,282.8","26,308.5","30,089.3","30,698.6","29,635.3","31,813.1","23,781.5","26,351.7","31,073.6","28,829.6","28,810.7","30,987.7","28,568.6","30,542.0","34,714.8","36,770.5","33,467.4","33,615.2","..",".."
+"Yukon","147.7","170.9","98.7","105.8","122.2","129.6","138.1","168.8","290.9","297.3","327.2","349.6","346.1","377.2","396.7","301.6","371.6","309.4","271.5","240.6","500.2","..",".."
+"Northwest Territories","912.1","1,153.3","1,171.3","1,832.5","2,246.0","1,963.7","1,825.4","1,912.4","2,219.9","1,271.3","1,918.1","1,785.2","1,322.8","1,292.2","1,481.0","1,167.5","905.9","1,159.7","1,149.9","1,078.4","733.9","..",".."
+"Nunavut","166.4","114.4","97.6","50.7","84.6","60.2","94.5","106.9","106.3","81.0","373.3","422.7","520.6","489.4","576.9","536.1","573.0","805.3","769.7","1,083.5","1,700.5","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+"Table Corrections:"
+Date,Note
+"2015-06-22","On June 22, 2015, provincial and territorial values for special aggregates (tabulations T002 through T016) were corrected for 2014 and subsequently revised in November, 2015 as part of the annual revision."
+
+
+
+Footnotes:
+1,"For the gross domestic product (GDP) by industry refer to table 36-10-0434-03 (formerly CANSIM 379-0031) for Canada in chained dollars, table 36-10-0401-01 (formerly CANSIM 379-0029) for Canada in current dollars, table 36-10-0400-01 (formerly CANSIM 379-0028) for provinces and territories in percentage share."
+2,"For the chained dollars, the aggregates are not equal to the sum of their components."
+3,"On June 22, 2015, provincial and territorial values for special aggregates (tabulations T002 through T016) were corrected for 2014 and subsequently revised in November, 2015 as part of the annual revision."
+4,"The November 10, 2015 release incorporates comprehensive revisions to the provincial-territorial estimates of gross domestic product by industry for reference years 2007 to 2014. For more information on the source of these changes, consult the <a href="http://www.statcan.gc.ca/pub/13-605-x/2015003/article/14153-eng.htm">Latest Developments in the Canadian Economic Accounts in the system of macroeconomic accounts module</a>."
+5,"As part of the 2015 comprehensive revision of the Canadian System of Macroeconomic Accounts (CSMA), the provincial-territorial Gross Domestic Product (GDP) by industry data in chained (2007) dollars for the period 1997 to 2006 have been released on December 15, 2015. The data for the period 1997 to 2006 have been aligned with those published on November 10, 2015 for the period 2007 to 2014. In addition, the chained (2007) dollars for the provincial and territorial GDP for the following three aggregates were revised for the period 2007-2014 vis-à-vis those released on November 10, 2015: information and communication technology-total, information and communication technology-manufacturing, and information and communication technology-services. The growth rates for these three series for the 2008-2014 period were unaffected."
+6,"With November 8, 2018 release, current price and chained Fisher Gross Domestic Product (GDP) estimates by industry for the period 1997 to 2006 have been revised to improve the continuity of the GDP by industry time series and to enhance their coherence with expenditure-based GDP."
+7,"With May 1, 2019 release, the provincial and territorial gross domestic product (GDP) by industry adopted the <a href="https://www.statcan.gc.ca/eng/subjects/standard/naics/2017/v3/index">North American Industry Classification System (NAICS) Canada 2017 version 3.0</a>."
+8,"Since October 17, 2018, the sale of cannabis for non-medical purposes is legal in Canada. The provincial and territorial gross domestic product (GDP) by industry estimates will begin to take into account this activity and the licensed production of cannabis, as well as the unlicensed production and sale of cannabis, in the release of May 1, 2019 data. For more information, please read the article "<a href="https://www150.statcan.gc.ca/n1/pub/13-605-x/2018001/article/54969-eng.htm">Integrating the production, distribution and consumption of cannabis in the Canadian national economic accounts</a>"."
+9,"With the legalization of production and sale of edible cannabis, cannabis extracts and cannabis topicals in Canada on October 17, 2019, beginning in reference year 2019, industry 3122 (Tobacco manufacturing) also includes cannabis product manufacturing."
+10,"Aggregate T010 combines the North American Industry Classification System (NAICS) codes 21, 22, 31-33, 562."
+
+
+
+"How to cite: Statistics Canada. Table 36-10-0402-01  Gross domestic product (GDP) at basic prices, by industry, provinces and territories (x 1,000,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610040201

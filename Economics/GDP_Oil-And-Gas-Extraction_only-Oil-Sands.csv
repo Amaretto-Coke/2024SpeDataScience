@@ -1,0 +1,52 @@
+﻿"Gross domestic product (GDP) at basic prices, by industry, provinces and territories (x 1,000,000) c 1 2 3 4 5 6 7"
+"Frequency: Annual"
+"Table: 36-10-0402-01 (formerly CANSIM 379-0030)"
+"Release date: 2023-11-08"
+"Geography: Province or territory"
+""
+""
+
+"Value","Current dollars",,,,,,,,,,,,,,,,,,,,,,
+"North American Industry Classification System (NAICS) 7 8 9","Oil sands extraction  [21114] 10",,,,,,,,,,,,,,,,,,,,,,
+"Geography","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022"
+,"Dollars",,,,,,,,,,,,,,,,,,,,,,
+"Newfoundland and Labrador","..","..","..","..","..","..","..","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","..",".."
+"Prince Edward Island","..","..","..","..","..","..","..","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","..",".."
+"Nova Scotia","..","..","..","..","..","..","..","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","..",".."
+"New Brunswick","..","..","..","..","..","..","..","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","..",".."
+"Quebec","..","..","..","..","..","..","..","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","..",".."
+"Ontario","..","..","..","..","..","..","..","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","..",".."
+"Manitoba","..","..","..","..","..","..","..","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","..",".."
+"Saskatchewan","..","..","..","..","..","..","..","215.6","414.1","339.2","348.4","410.1","516.4","699.9","550.6","396.0","586.2","404.8","1,075.2","207.1","157.9","..",".."
+"Alberta","..","..","..","..","..","..","..","19,376.1","29,571.6","20,798.8","27,779.2","32,274.7","31,378.2","35,679.9","46,524.9","22,870.7","20,800.9","32,809.7","38,970.2","45,187.9","19,571.9","..",".."
+"British Columbia","..","..","..","..","..","..","..","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","..",".."
+"Yukon","..","..","..","..","..","..","..","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","..",".."
+"Northwest Territories","..","..","..","..","..","..","..","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","..",".."
+"Nunavut","..","..","..","..","..","..","..","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+"Table Corrections:"
+Date,Note
+"2015-06-22","On June 22, 2015, provincial and territorial values for special aggregates (tabulations T002 through T016) were corrected for 2014 and subsequently revised in November, 2015 as part of the annual revision."
+
+
+
+Footnotes:
+1,"For the gross domestic product (GDP) by industry refer to table 36-10-0434-03 (formerly CANSIM 379-0031) for Canada in chained dollars, table 36-10-0401-01 (formerly CANSIM 379-0029) for Canada in current dollars, table 36-10-0400-01 (formerly CANSIM 379-0028) for provinces and territories in percentage share."
+2,"For the chained dollars, the aggregates are not equal to the sum of their components."
+3,"On June 22, 2015, provincial and territorial values for special aggregates (tabulations T002 through T016) were corrected for 2014 and subsequently revised in November, 2015 as part of the annual revision."
+4,"The November 10, 2015 release incorporates comprehensive revisions to the provincial-territorial estimates of gross domestic product by industry for reference years 2007 to 2014. For more information on the source of these changes, consult the <a href="http://www.statcan.gc.ca/pub/13-605-x/2015003/article/14153-eng.htm">Latest Developments in the Canadian Economic Accounts in the system of macroeconomic accounts module</a>."
+5,"As part of the 2015 comprehensive revision of the Canadian System of Macroeconomic Accounts (CSMA), the provincial-territorial Gross Domestic Product (GDP) by industry data in chained (2007) dollars for the period 1997 to 2006 have been released on December 15, 2015. The data for the period 1997 to 2006 have been aligned with those published on November 10, 2015 for the period 2007 to 2014. In addition, the chained (2007) dollars for the provincial and territorial GDP for the following three aggregates were revised for the period 2007-2014 vis-à-vis those released on November 10, 2015: information and communication technology-total, information and communication technology-manufacturing, and information and communication technology-services. The growth rates for these three series for the 2008-2014 period were unaffected."
+6,"With November 8, 2018 release, current price and chained Fisher Gross Domestic Product (GDP) estimates by industry for the period 1997 to 2006 have been revised to improve the continuity of the GDP by industry time series and to enhance their coherence with expenditure-based GDP."
+7,"With May 1, 2019 release, the provincial and territorial gross domestic product (GDP) by industry adopted the <a href="https://www.statcan.gc.ca/eng/subjects/standard/naics/2017/v3/index">North American Industry Classification System (NAICS) Canada 2017 version 3.0</a>."
+8,"Since October 17, 2018, the sale of cannabis for non-medical purposes is legal in Canada. The provincial and territorial gross domestic product (GDP) by industry estimates will begin to take into account this activity and the licensed production of cannabis, as well as the unlicensed production and sale of cannabis, in the release of May 1, 2019 data. For more information, please read the article "<a href="https://www150.statcan.gc.ca/n1/pub/13-605-x/2018001/article/54969-eng.htm">Integrating the production, distribution and consumption of cannabis in the Canadian national economic accounts</a>"."
+9,"With the legalization of production and sale of edible cannabis, cannabis extracts and cannabis topicals in Canada on October 17, 2019, beginning in reference year 2019, industry 3122 (Tobacco manufacturing) also includes cannabis product manufacturing."
+10,"With May 1, 2019 release, the provincial and territorial gross domestic product (GDP) by industry adopted the <a href="https://www.statcan.gc.ca/eng/subjects/standard/naics/2017/v3/index">North American Industry Classification System (NAICS) Canada 2017 version 3.0</a>. As a result the non conventional oil extraction industry was renamed "Oil sands extraction" and recoded from 211114 to 21114."
+
+
+
+"How to cite: Statistics Canada. Table 36-10-0402-01  Gross domestic product (GDP) at basic prices, by industry, provinces and territories (x 1,000,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610040201
