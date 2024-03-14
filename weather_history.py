@@ -136,19 +136,18 @@ def add_province_via_google_maps(df, api_key):
 
 
 if __name__ == '__main__':
-    '''
+
     # Ignore FutureWarning
     warnings.filterwarnings("ignore", category=FutureWarning)
     step = 500
-    for i in range(22001, 100_001, step):
+    for i in range(99501, 99_999, step):
         print(f"\nGrabbing Stations {i} to {i+step-1}.")
         wsdf = id_weather_stations(list(range(i, i+step)))
         wsdf.to_csv(rf'WeatherStationsListing\{wsdf["Station Id"].iloc[-1]}.csv')
         sleep(2)
-    '''
 
     # historic_weather_scrape("YYC", 2000, 0, 2023, 12)
-    historic_weather_scrape("YEG", 2000, 0, 2023, 12)
-    historic_weather_scrape("YMM", 2000, 0, 2023, 12)
+    # historic_weather_scrape("YEG", 2000, 0, 2023, 12)
+    # historic_weather_scrape("YMM", 2000, 0, 2023, 12)
 
     print("Done")

@@ -1,0 +1,501 @@
+,Station Id,Station Name,Longitude (x),Latitude (y),Status
+0,27001,ANGUS CAMPHILL,-79.85,44.28,Success
+1,27002,KINCARDINE A,-81.6,44.2,Success
+2,27003,PARRY SOUND 2,-80.03,45.35,Success
+3,27004,WHITBY PRINGLE CREEK,-78.93,43.87,Success
+4,27005,CANDLE LAKE,-105.27,53.75,Success
+5,27006,HOWE SOUND STRACHAN CRK,-123.23,49.42,Success
+6,27007,COQUITLAM LAFARGE,-122.77,49.28,Success
+7,27008,DUNSTER 2,-119.83,53.17,Success
+8,27009,,,,Bad Response
+9,27010,,,,Bad Response
+10,27011,,,,Bad Response
+11,27012,,,,Bad Response
+12,27013,,,,Bad Response
+13,27014,,,,Bad Response
+14,27015,CROSS CONSERVATION AREA,-114.21,50.79,Success
+15,27016,JARVIS LAKE,-117.82,53.45,Success
+16,27017,,,,Bad Response
+17,27018,UNCAS,-113.03,53.5,Success
+18,27019,,,,Bad Response
+19,27020,,,,Bad Response
+20,27021,,,,Bad Response
+21,27022,,,,Bad Response
+22,27023,,,,Bad Response
+23,27024,,,,Bad Response
+24,27025,,,,Bad Response
+25,27026,,,,Bad Response
+26,27027,,,,Bad Response
+27,27028,,,,Bad Response
+28,27029,YA HA TINDA  AFS,-115.36,51.65,Success
+29,27030,POLL HAVEN AFS,-113.6,49.03,Success
+30,27031,PONDEROSA,-117.06,59.21,Success
+31,27032,,,,Bad Response
+32,27033,,,,Bad Response
+33,27034,,,,Bad Response
+34,27035,,,,Bad Response
+35,27036,MISTANUSK CREEK,-120.01,54.59,Success
+36,27037,BOVINE CREEK AFS,-112.55,56.11,Success
+37,27038,GROUND ZERO AFS,-110.62,55.02,Success
+38,27039,LOON LAKE AFS,-115.07,57.13,Success
+39,27040,JACKPINE AFS,-116.56,56.88,Success
+40,27041,SNEDDON CREEK RS,-119.4,56.2,Success
+41,27042,,,,Bad Response
+42,27043,,,,Bad Response
+43,27044,,,,Bad Response
+44,27045,,,,Bad Response
+45,27046,,,,Bad Response
+46,27047,,,,Bad Response
+47,27048,,,,Bad Response
+48,27049,,,,Bad Response
+49,27050,,,,Bad Response
+50,27051,,,,Bad Response
+51,27052,,,,Bad Response
+52,27053,,,,Bad Response
+53,27054,,,,Bad Response
+54,27055,,,,Bad Response
+55,27056,,,,Bad Response
+56,27057,,,,Bad Response
+57,27058,,,,Bad Response
+58,27059,,,,Bad Response
+59,27060,,,,Bad Response
+60,27061,,,,Bad Response
+61,27062,,,,Bad Response
+62,27063,,,,Bad Response
+63,27064,,,,Bad Response
+64,27065,,,,Bad Response
+65,27066,,,,Bad Response
+66,27067,,,,Bad Response
+67,27068,,,,Bad Response
+68,27069,,,,Bad Response
+69,27070,,,,Bad Response
+70,27071,,,,Bad Response
+71,27072,,,,Bad Response
+72,27073,,,,Bad Response
+73,27074,,,,Bad Response
+74,27075,,,,Bad Response
+75,27076,,,,Bad Response
+76,27077,,,,Bad Response
+77,27078,,,,Bad Response
+78,27079,,,,Bad Response
+79,27080,,,,Bad Response
+80,27081,,,,Bad Response
+81,27082,PORT LAW,-80.47,44.25,Success
+82,27083,BOLTON NORTH,-79.75,43.92,Success
+83,27084,THUNDER BAY A FIREHALL,-89.32,48.37,Success
+84,27085,,,,Bad Response
+85,27086,,,,Bad Response
+86,27087,GRAVENHURST BEAVER CREEK,-79.3,44.97,Success
+87,27088,,,,Bad Response
+88,27089,,,,Bad Response
+89,27090,,,,Bad Response
+90,27091,,,,Bad Response
+91,27092,,,,Bad Response
+92,27093,VANCOUVER TRAFALGAR PK,-123.15,49.27,Success
+93,27094,YOHO NP EMERALD LAKE,-116.54,51.43,Success
+94,27095,,,,Bad Response
+95,27096,,,,Bad Response
+96,27097,,,,Bad Response
+97,27098,,,,Bad Response
+98,27099,,,,Bad Response
+99,27100,,,,Bad Response
+100,27101,,,,Bad Response
+101,27102,,,,Bad Response
+102,27103,,,,Bad Response
+103,27104,,,,Bad Response
+104,27105,,,,Bad Response
+105,27106,,,,Bad Response
+106,27107,,,,Bad Response
+107,27108,,,,Bad Response
+108,27109,,,,Bad Response
+109,27110,,,,Bad Response
+110,27111,,,,Bad Response
+111,27112,,,,Bad Response
+112,27113,,,,Bad Response
+113,27114,,,,Bad Response
+114,27115,ST JOHN'S WEST CDA CS,-52.78,47.52,Success
+115,27116,DAVIDSON 30 NE,-105.8,51.42,Success
+116,27117,,,,Bad Response
+117,27118,NANGMAGVIK LAKE,-119.99,74.14,Success
+118,27119,ROBLIN,-101.36,51.18,Success
+119,27120,,,,Bad Response
+120,27121,KITIMAT HATCHERY,-128.68,54.04,Success
+121,27122,JELLICOE,-120.33,49.67,Success
+122,27123,,,,Bad Response
+123,27124,,,,Bad Response
+124,27125,,,,Bad Response
+125,27126,,,,Bad Response
+126,27127,,,,Bad Response
+127,27128,,,,Bad Response
+128,27129,,,,Bad Response
+129,27130,,,,Bad Response
+130,27131,,,,Bad Response
+131,27132,,,,Bad Response
+132,27133,,,,Bad Response
+133,27134,,,,Bad Response
+134,27135,,,,Bad Response
+135,27136,,,,Bad Response
+136,27137,,,,Bad Response
+137,27138,,,,Bad Response
+138,27139,,,,Bad Response
+139,27140,,,,Bad Response
+140,27141,KENTVILLE CDA CS,-64.48,45.07,Success
+141,27142,TERRA NOVA NAT PARK CS,-53.97,48.56,Success
+142,27143,,,,Bad Response
+143,27144,,,,Bad Response
+144,27145,,,,Bad Response
+145,27146,,,,Bad Response
+146,27147,,,,Bad Response
+147,27148,,,,Bad Response
+148,27149,,,,Bad Response
+149,27150,,,,Bad Response
+150,27151,,,,Bad Response
+151,27152,,,,Bad Response
+152,27153,,,,Bad Response
+153,27154,,,,Bad Response
+154,27155,,,,Bad Response
+155,27156,,,,Bad Response
+156,27157,,,,Bad Response
+157,27158,,,,Bad Response
+158,27159,,,,Bad Response
+159,27160,,,,Bad Response
+160,27161,,,,Bad Response
+161,27162,,,,Bad Response
+162,27163,,,,Bad Response
+163,27164,,,,Bad Response
+164,27165,,,,Bad Response
+165,27166,,,,Bad Response
+166,27167,,,,Bad Response
+167,27168,,,,Bad Response
+168,27169,,,,Bad Response
+169,27170,WINNIPEG PACIFIC AVENUE,-97.17,49.92,Success
+170,27171,,,,Bad Response
+171,27172,,,,Bad Response
+172,27173,,,,Bad Response
+173,27174,WINNIPEG A CS,-97.25,49.92,Success
+174,27175,,,,Bad Response
+175,27176,,,,Bad Response
+176,27177,,,,Bad Response
+177,27178,,,,Bad Response
+178,27179,,,,Bad Response
+179,27180,,,,Bad Response
+180,27181,,,,Bad Response
+181,27182,,,,Bad Response
+182,27183,,,,Bad Response
+183,27184,,,,Bad Response
+184,27185,,,,Bad Response
+185,27186,,,,Bad Response
+186,27187,,,,Bad Response
+187,27188,,,,Bad Response
+188,27189,,,,Bad Response
+189,27190,,,,Bad Response
+190,27191,,,,Bad Response
+191,27192,,,,Bad Response
+192,27193,,,,Bad Response
+193,27194,POINTE-AU-PERE (INRS),-68.47,48.51,Success
+194,27195,CAP-CHAT,-66.65,49.11,Success
+195,27196,,,,Bad Response
+196,27197,BORDEN,-79.92,44.27,Success
+197,27198,SURREY FLEETWOOD,-122.79,49.15,Success
+198,27199,MOUNTAIN VIEW VILLAGE,-113.59,49.13,Success
+199,27200,STAVELY AAFC,-113.88,50.18,Success
+200,27201,,,,Bad Response
+201,27202,,,,Bad Response
+202,27203,,,,Bad Response
+203,27204,,,,Bad Response
+204,27205,ST ANTHONY,-56.1,51.38,Success
+205,27206,NIAGARA ON THE LAKE GOLF,-79.07,43.25,Success
+206,27207,MOUNT FOREST,-80.75,43.97,Success
+207,27208,ROCKY MTN HOUSE CR10,-114.92,52.43,Success
+208,27209,,,,Bad Response
+209,27210,BANFF CR10,-115.55,51.2,Success
+210,27211,CALGARY INT'L CS,-114.0,51.11,Success
+211,27212,CORONATION CLIMATE,-111.45,52.07,Success
+212,27213,EDSON CLIMATE,-116.45,53.58,Success
+213,27214,EDMONTON BLATCHFORD,-113.52,53.57,Success
+214,27215,GRANDE PRAIRIE CR21X,-118.88,55.18,Success
+215,27216,FORT MCMURRAY CS,-111.21,56.65,Success
+216,27217,LETHBRIDGE A CR10,-112.8,49.63,Success
+217,27218,PINCHER CREEK CLIMATE,-114.0,49.52,Success
+218,27219,SLAVE LAKE CR10,-114.78,55.3,Success
+219,27220,WAINWRIGHT CR10,-111.1,52.83,Success
+220,27221,,,,Bad Response
+221,27222,INUVIK CR10,-133.48,68.3,Success
+222,27223,SHEARWATER AUTO,-63.51,44.64,Success
+223,27224,,,,Bad Response
+224,27225,,,,Bad Response
+225,27226,DISCOVERY ISLAND,-123.23,48.42,Success
+226,27227,NEWMARKET 3,-79.43,44.05,Success
+227,27228,MCIVER'S,-58.12,49.07,Success
+228,27229,HOLYROOD,-53.12,47.38,Success
+229,27230,WINNIPEG SOUTH,-97.13,49.78,Success
+230,27231,WAPELLA ST PAULS,-101.98,50.2,Success
+231,27232,,,,Bad Response
+232,27233,,,,Bad Response
+233,27234,,,,Bad Response
+234,27235,,,,Bad Response
+235,27236,,,,Bad Response
+236,27237,,,,Bad Response
+237,27238,,,,Bad Response
+238,27239,,,,Bad Response
+239,27240,EKATI A,-110.61,64.7,Success
+240,27241,,,,Bad Response
+241,27242,,,,Bad Response
+242,27243,,,,Bad Response
+243,27244,,,,Bad Response
+244,27245,,,,Bad Response
+245,27246,,,,Bad Response
+246,27247,,,,Bad Response
+247,27248,,,,Bad Response
+248,27249,,,,Bad Response
+249,27250,,,,Bad Response
+250,27251,,,,Bad Response
+251,27252,,,,Bad Response
+252,27253,,,,Bad Response
+253,27254,,,,Bad Response
+254,27255,,,,Bad Response
+255,27256,,,,Bad Response
+256,27257,,,,Bad Response
+257,27258,,,,Bad Response
+258,27259,,,,Bad Response
+259,27260,ELK RIVER AFS,-115.87,52.97,Success
+260,27261,WHITESAND AFS,-114.9,59.43,Success
+261,27262,MARTEN HILLS AFS,-114.56,55.54,Success
+262,27263,WINDFALL AFS,-116.25,54.19,Success
+263,27264,,,,Bad Response
+264,27265,,,,Bad Response
+265,27266,,,,Bad Response
+266,27267,,,,Bad Response
+267,27268,,,,Bad Response
+268,27269,,,,Bad Response
+269,27270,,,,Bad Response
+270,27271,,,,Bad Response
+271,27272,,,,Bad Response
+272,27273,,,,Bad Response
+273,27274,,,,Bad Response
+274,27275,,,,Bad Response
+275,27276,,,,Bad Response
+276,27277,,,,Bad Response
+277,27278,,,,Bad Response
+278,27279,,,,Bad Response
+279,27280,KEELEY LAKE,-108.17,54.87,Success
+280,27281,,,,Bad Response
+281,27282,SOUTH SIDE HARBOUR,-61.9,45.62,Success
+282,27283,,,,Bad Response
+283,27284,,,,Bad Response
+284,27285,,,,Bad Response
+285,27286,LONG POND,-52.98,47.52,Success
+286,27287,,,,Bad Response
+287,27288,MERRY ISLAND,-123.92,49.47,Success
+288,27289,CHROME ISLAND,-124.68,49.47,Success
+289,27290,TRIAL ISLAND,-123.3,48.4,Success
+290,27291,MARIE LOUISE LAKE,-88.8,48.37,Success
+291,27292,,,,Bad Response
+292,27293,,,,Bad Response
+293,27294,ONATCHIWAY,-71.03,48.89,Success
+294,27295,BARRIER LAKE,-115.08,51.05,Success
+295,27296,MARGARET LAKE,-140.85,68.8,Success
+296,27297,,,,Bad Response
+297,27298,,,,Bad Response
+298,27299,,,,Bad Response
+299,27300,,,,Bad Response
+300,27301,,,,Bad Response
+301,27302,,,,Bad Response
+302,27303,,,,Bad Response
+303,27304,,,,Bad Response
+304,27305,,,,Bad Response
+305,27306,,,,Bad Response
+306,27307,,,,Bad Response
+307,27308,,,,Bad Response
+308,27309,,,,Bad Response
+309,27310,,,,Bad Response
+310,27311,,,,Bad Response
+311,27312,,,,Bad Response
+312,27313,,,,Bad Response
+313,27314,,,,Bad Response
+314,27315,LA BAIE,-70.92,48.3,Success
+315,27316,,,,Bad Response
+316,27317,,,,Bad Response
+317,27318,,,,Bad Response
+318,27319,,,,Bad Response
+319,27320,,,,Bad Response
+320,27321,OSLER 6 N,-106.5,52.42,Success
+321,27322,NILESTOWN,-81.08,42.98,Success
+322,27323,AYLMER,-80.98,42.77,Success
+323,27324,MOULD BAY CS,-119.35,76.24,Success
+324,27325,DESCHAMBAULT,-71.97,46.69,Success
+325,27326,POINTE NOIRE CS,-66.43,50.16,Success
+326,27327,,,,Bad Response
+327,27328,,,,Bad Response
+328,27329,,,,Bad Response
+329,27330,HENDERSON LAKE HATCHERY,-125.14,49.13,Success
+330,27331,FORT ASSINIBOINE 2,-114.83,54.35,Success
+331,27332,ST ALBERT,-113.62,53.62,Success
+332,27333,ENILDA-BERG,-116.3,55.42,Success
+333,27334,MANNING,-117.63,56.95,Success
+334,27335,GLOUCESTER POOL,-79.68,44.82,Success
+335,27336,,,,Bad Response
+336,27337,THOROLD,-79.2,43.12,Success
+337,27338,YELLOWKNIFE CS,-114.45,62.47,Success
+338,27339,MACMILLAN PASS,-130.04,63.24,Success
+339,27340,,,,Bad Response
+340,27341,,,,Bad Response
+341,27342,,,,Bad Response
+342,27343,,,,Bad Response
+343,27344,,,,Bad Response
+344,27345,,,,Bad Response
+345,27346,,,,Bad Response
+346,27347,,,,Bad Response
+347,27348,,,,Bad Response
+348,27349,,,,Bad Response
+349,27350,,,,Bad Response
+350,27351,,,,Bad Response
+351,27352,,,,Bad Response
+352,27353,,,,Bad Response
+353,27354,,,,Bad Response
+354,27355,,,,Bad Response
+355,27356,N VANCOUVER W KEITH RD,-123.08,49.32,Success
+356,27357,,,,Bad Response
+357,27358,,,,Bad Response
+358,27359,,,,Bad Response
+359,27360,,,,Bad Response
+360,27361,,,,Bad Response
+361,27362,,,,Bad Response
+362,27363,,,,Bad Response
+363,27364,,,,Bad Response
+364,27365,,,,Bad Response
+365,27366,,,,Bad Response
+366,27367,,,,Bad Response
+367,27368,,,,Bad Response
+368,27369,,,,Bad Response
+369,27370,,,,Bad Response
+370,27371,,,,Bad Response
+371,27372,,,,Bad Response
+372,27373,,,,Bad Response
+373,27374,,,,Bad Response
+374,27375,,,,Bad Response
+375,27376,LUPIN CS,-111.25,65.76,Success
+376,27377,STE-FOY (U. LAVAL),-71.29,46.78,Success
+377,27378,BANFF CS,-115.55,51.19,Success
+378,27379,,,,Bad Response
+379,27380,,,,Bad Response
+380,27381,,,,Bad Response
+381,27382,CAPE MUDGE CS,-125.2,50.0,Success
+382,27383,,,,Bad Response
+383,27384,,,,Bad Response
+384,27385,,,,Bad Response
+385,27386,,,,Bad Response
+386,27387,,,,Bad Response
+387,27388,LILLOOET,-121.93,50.68,Success
+388,27389,,,,Bad Response
+389,27390,,,,Bad Response
+390,27391,,,,Bad Response
+391,27392,,,,Bad Response
+392,27393,,,,Bad Response
+393,27394,,,,Bad Response
+394,27395,,,,Bad Response
+395,27396,,,,Bad Response
+396,27397,,,,Bad Response
+397,27398,,,,Bad Response
+398,27399,,,,Bad Response
+399,27400,,,,Bad Response
+400,27401,,,,Bad Response
+401,27402,,,,Bad Response
+402,27403,,,,Bad Response
+403,27404,,,,Bad Response
+404,27405,,,,Bad Response
+405,27406,,,,Bad Response
+406,27407,,,,Bad Response
+407,27408,,,,Bad Response
+408,27409,,,,Bad Response
+409,27410,,,,Bad Response
+410,27411,,,,Bad Response
+411,27412,,,,Bad Response
+412,27413,,,,Bad Response
+413,27414,,,,Bad Response
+414,27415,,,,Bad Response
+415,27416,,,,Bad Response
+416,27417,,,,Bad Response
+417,27418,,,,Bad Response
+418,27419,,,,Bad Response
+419,27420,,,,Bad Response
+420,27421,,,,Bad Response
+421,27422,,,,Bad Response
+422,27423,,,,Bad Response
+423,27424,,,,Bad Response
+424,27425,,,,Bad Response
+425,27426,,,,Bad Response
+426,27427,,,,Bad Response
+427,27428,,,,Bad Response
+428,27429,,,,Bad Response
+429,27430,,,,Bad Response
+430,27431,,,,Bad Response
+431,27432,,,,Bad Response
+432,27433,,,,Bad Response
+433,27434,,,,Bad Response
+434,27435,,,,Bad Response
+435,27436,,,,Bad Response
+436,27437,,,,Bad Response
+437,27438,,,,Bad Response
+438,27439,,,,Bad Response
+439,27440,,,,Bad Response
+440,27441,,,,Bad Response
+441,27442,CHARLEVOIX (MRC),-70.64,47.28,Success
+442,27443,CHAPAIS,-74.98,49.82,Success
+443,27444,,,,Bad Response
+444,27445,,,,Bad Response
+445,27446,,,,Bad Response
+446,27447,TORONTO 407 AND MAVIS,-79.73,43.65,Success
+447,27448,TORONTO 407 AND YONGE,-79.43,43.83,Success
+448,27449,GRIEF POINT,-124.53,49.8,Success
+449,27450,,,,Bad Response
+450,27451,,,,Bad Response
+451,27452,,,,Bad Response
+452,27453,,,,Bad Response
+453,27454,,,,Bad Response
+454,27455,SUNSHINE CS,-115.78,51.07,Success
+455,27456,,,,Bad Response
+456,27457,,,,Bad Response
+457,27458,,,,Bad Response
+458,27459,,,,Bad Response
+459,27460,,,,Bad Response
+460,27461,,,,Bad Response
+461,27462,,,,Bad Response
+462,27463,VIKING NORTH 2,-111.77,53.28,Success
+463,27464,,,,Bad Response
+464,27465,,,,Bad Response
+465,27466,,,,Bad Response
+466,27467,,,,Bad Response
+467,27468,,,,Bad Response
+468,27469,,,,Bad Response
+469,27470,,,,Bad Response
+470,27471,,,,Bad Response
+471,27472,,,,Bad Response
+472,27473,,,,Bad Response
+473,27474,,,,Bad Response
+474,27475,,,,Bad Response
+475,27476,MOOSE JAW CS,-105.54,50.33,Success
+476,27477,,,,Bad Response
+477,27478,,,,Bad Response
+478,27479,,,,Bad Response
+479,27480,,,,Bad Response
+480,27481,,,,Bad Response
+481,27482,HARVEY STATION,-67.02,45.73,Success
+482,27483,,,,Bad Response
+483,27484,REDWATER SOUTH,-113.12,53.83,Success
+484,27485,CALEDON NORTH,-79.95,43.93,Success
+485,27486,,,,Bad Response
+486,27487,,,,Bad Response
+487,27488,TILLSONBURG NORTH,-80.74,42.86,Success
+488,27489,SASKATOON KERNEN FARM CS,-106.55,52.15,Success
+489,27490,SCOTT CS,-108.83,52.36,Success
+490,27491,,,,Bad Response
+491,27492,EDMONTON STONY PLAIN CS,-114.11,53.55,Success
+492,27493,,,,Bad Response
+493,27494,,,,Bad Response
+494,27495,,,,Bad Response
+495,27496,,,,Bad Response
+496,27497,,,,Bad Response
+497,27498,,,,Bad Response
+498,27499,,,,Bad Response
+499,27500,,,,Bad Response
